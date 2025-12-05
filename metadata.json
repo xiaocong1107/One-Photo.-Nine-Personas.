@@ -1,0 +1,5 @@
+{
+  "name": "Nano Studio AI",
+  "description": "A professional AI photo studio powered by Gemini Nano Banana (Flash Image). Upload one portrait to generate 9 distinct stylistic variations instantly.",
+  "requestFramePermissions": []
+}
